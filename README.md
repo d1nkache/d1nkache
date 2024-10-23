@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProstoBorov01
-- 👀 I’m interested in TON blockchain, Сomputer science, 
+- 👀 I’m interested in TON blockchain, Сomputer science, and ... мне лень дальше придумывать
 - 🌱 I’m currently learning smth interesting
 - 📫 How to reach me [telegram --> @prosto_borov]
 - ⚡ Fun fact: !(
