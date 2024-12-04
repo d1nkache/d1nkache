@@ -6,7 +6,7 @@
 - 👀 I’m interested in TON blockchain, Сomputer science, and ... мне лень дальше придумывать
 - 🌱 I’m currently
 - 📫 How to reach me [telegram --> @prosto_borov]
-- ⚡ Fun fact: !(
+- ⚡ Fun fact: !(/?
 
 <!---
 ProstoBorov01/ProstoBorov01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
