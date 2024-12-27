@@ -3,8 +3,8 @@
 </div>
 
 - 👋 Hi, I’m @Mantissa
-- 👀 I’m interested in TON blockchain, Сomputer science, and ... мне лень дальше придумывать
-- 🌱 I’m currently
+- 👀 I’m interested in TON blockchain, Сomputer science, and ... мне лень дальше писать
+- 🌱 I’m оопределяю себя как 3х адресная ЭВМ
 - 📫 How to reach me [telegram --> @prosto_borov]
 - ⚡ Fun fact: !(/?
 
