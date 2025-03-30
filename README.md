@@ -3,7 +3,7 @@
 </div>
 
 - 👋 Hi, I’m @d1nkache
-- 👀 I’m interested in TON blockchain, Сomputer science, and ... мне лень дальше писать
+- 👀 I’m interested in TON blockchain, Сomputer science, and ... мне лень дальше писать ... etc
 - 🌱 I’m определяю себя как 3х адресная ЭВМ Эйлера Фон Неймона
 - 📫 How to reach me [telegram --> @dinka_che]
 - ⚡ Fun fact: !(/?)! завтра я буду вечно молодым...!
