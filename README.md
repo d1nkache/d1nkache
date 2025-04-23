@@ -7,6 +7,7 @@
 - 🌱 I’m определяю себя как 3х адресная ЭВМ Эйлера Фон Неймона
 - 📫 How to reach me [telegram --> @dinka_che]
 - ⚡ Fun fact: !(/?)! завтра я буду вечно молодым...!!!
+- 💭 Случайная мысль: Нейросети это так себе если честно
 
 <!---
 ProstoBorov01/ProstoBorov01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
