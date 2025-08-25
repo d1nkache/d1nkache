@@ -3,9 +3,9 @@
 </div>
 
 - 👋 Hi, I’m @d1nkache / @savvin34
-- 👀 I’m interested in TON blockchain, Сomputer science, and ... мне лень дальше писать ... etc
+- 👀 I’m interested in TON blockchain, Сomputer science, and ... etc
 - 🌱 I’m определяю себя как 3х адресная ЭВМ Эйлера Фон Неймона
-- 📫 How to reach me [telegram --> @dinka_che]
+- 📫 How to reach me [telegram --> @savvin34]
 - ⚡ Fun fact: !(/?)! завтра я буду вечно молодым...!!!
 - 💭 Случайная мысль: я знаю если что, что картинка не отображается
 
