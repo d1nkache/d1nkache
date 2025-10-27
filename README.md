@@ -8,9 +8,3 @@
 - 📫 How to reach me [telegram --> @savvin34]
 - ⚡ Fun fact: !(/?)! завтра я буду вечно молодым...!!!
 - 💭 Случайная мысль: я знаю если что, что картинка не отображается(это сделано специально [честно] )
-
-
-<!---
-ProstoBorov01/ProstoBorov01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
