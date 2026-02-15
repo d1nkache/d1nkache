@@ -5,7 +5,7 @@
 
 *   **Основные языки и фреймворки:** Java, Kotlin, Python, Spring Boot, Ktor, Java EE, FastAPI.
 *   **Базы данных и ORM:** PostgreSQL, Redis, Hibernate, JPA, SQLAlchemy, JDBC.
-*   **Архитектура и инструменты:** RESTful API, Микросервисная архитектура, Docker, CI/CD, GitLab, Apache Kafka, RabbitMQ, JUnit, Maven, Gradle, Linux, Git, ООП, SOLID, Clean Architecture.
+*   **Архитектура и инструменты:** RESTful API, Микросервисная архитектура, SAGA, EDA, Docker, CI/CD, GitLab, Apache Kafka, RabbitMQ, JUnit, Maven, Gradle, Linux, Git, ООП, SOLID, Clean Architecture.
 *   **Blockchain:** FunC (смарт-контракты), pythoniq, tonsdk, LayerZero, ton4j, ton-kotlin.
 
 
