@@ -1,4 +1,4 @@
-# Java/Kotlin Backend-разработчик | Blockchain developer 
+# Backend-разработчик | Blockchain developer 
 
 
 ### Профессиональные навыки 
